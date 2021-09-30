@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pandas
+datetime
+gzip
+netCDF4
+shutil
+requests
+warnings
