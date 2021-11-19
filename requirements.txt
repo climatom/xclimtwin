@@ -5,3 +5,4 @@ datetime
 netCDF4
 requests
 scipy
+numba
