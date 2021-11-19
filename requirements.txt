@@ -4,3 +4,4 @@ pandas
 datetime
 netCDF4
 requests
+scipy
